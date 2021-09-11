@@ -15,7 +15,7 @@ t.setup(500, 700)
 
 #プレイヤー
 player = t.Turtle()
-player.shapte("square")
+player.shape("square")
 player.shapesize(1, 5)
 player.up()
 player.speed(0)
