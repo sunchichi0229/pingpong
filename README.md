@@ -1,3 +1,3 @@
-Pythonで作った簡単なゲーむ
-<pingpong>
+Pythonで作った簡単なゲーム
+-pingpong-
 
